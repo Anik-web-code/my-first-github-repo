@@ -3,4 +3,12 @@
     color: blueviolet;
     height: 300px;
     width: fit-content;
+    margin-bottom: 10px;
+    text-align: justify;
+
+}
+.second{
+    background-color: chartreuse;
+    color: black;
+    text-align: justify;
 }
